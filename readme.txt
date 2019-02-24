@@ -1,4 +1,4 @@
 creating a new branch is quick AND simple.
 add merge.
 change dev.
-d:/gitskills.
+e:/gitskills.
